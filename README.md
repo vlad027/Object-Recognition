@@ -2,11 +2,11 @@
 
 This project is a work in progress for object recognition using PyTorch and the COCO dataset. The main script, `objectRecognition.py`, demonstrates how to train and evaluate a Faster R-CNN model for detecting objects in images.
 
-<img src="https://github.com/user-attachments/assets/c3f4390f-8748-4e87-8218-950f919da68f" alt="Sample" width="400" />
+<img src="https://github.com/user-attachments/assets/c3f4390f-8748-4e87-8218-950f919da68f" alt="Sample" width="400" style="display:block; margin-bottom: 10px;" />
 
-<img src="https://github.com/user-attachments/assets/70803e6b-26e3-4729-83ca-cbbe49a6a01d" alt="Sample" width="400" />
+<img src="https://github.com/user-attachments/assets/70803e6b-26e3-4729-83ca-cbbe49a6a01d" alt="Sample" width="400" style="display:block; margin-bottom: 10px;"/>
 
-<img src="https://github.com/user-attachments/assets/b41415bc-2d45-4884-8a99-6aae5fdc8b08" alt="Sample" width="400" />
+<img src="https://github.com/user-attachments/assets/b41415bc-2d45-4884-8a99-6aae5fdc8b08" alt="Sample" width="400" style="display:block; margin-bottom: 10px;"/>
 
 
 ## Requirements
